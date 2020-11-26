@@ -45,8 +45,8 @@ Week 6\
 Backtracking: N Queens, recording all solutions\
 Scope in Python: local, global, nonlocal names\
 Nested functions\
-Data structures: stack, queue
-Heaps\
+Data structures: stack, queue\
+Heaps
 
 Week 7\
 Abstract datatypes\
