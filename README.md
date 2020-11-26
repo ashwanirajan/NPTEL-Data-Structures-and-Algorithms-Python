@@ -11,7 +11,7 @@ INDUSTRY SUPPORT:   This course should be of value to any company requiring prog
 Week 1\
 Informal introduction to programming, algorithms and data structures via gcd\
 Downloading and installing Python\
-gcd in Python: variables, operations, control flow - assignments, condition-als, loops, functions\
+gcd in Python: variables, operations, control flow - assignments, condition-als, loops, functions
 
 Week 2\
 Python: types, expressions, strings, lists, tuples\
@@ -27,25 +27,25 @@ Basic algorithmic analysis: input size, asymptotic complexity, O() notation\
 Arrays vs lists\
 Merge sort\
 Quicksort\
-Stable sorting\
+Stable sorting
 
 Week 4\
 Dictionaries\
 More on Python functions: optional arguments, default values\
 Passing functions as arguments\
-Higher order functions on lists: map, lter, list comprehension\
+Higher order functions on lists: map, lter, list comprehension
 
 Week 5\
 Exception handling\
 Basic input/output\
 Handling files\
-String processing\
+String processing
 
 Week 6\
 Backtracking: N Queens, recording all solutions\
 Scope in Python: local, global, nonlocal names\
 Nested functions\
-Data structures: stack, queue\
+Data structures: stack, queue
 Heaps\
 
 Week 7\
@@ -53,10 +53,10 @@ Abstract datatypes\
 Classes and objects in Python\
 "Linked" lists: find, insert, delete\
 Binary search trees: find, insert, delete\
-Height-balanced binary search trees\
+Height-balanced binary search trees
 
 Week 8\
 Effcient evaluation of recursive definitions: memoization\
 Dynamic programming: examples\
 Other programming languages: C and manual memory management\
-Other programming paradigms: functional programming\
+Other programming paradigms: functional programming
