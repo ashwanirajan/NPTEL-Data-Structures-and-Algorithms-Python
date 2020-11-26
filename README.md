@@ -9,17 +9,17 @@ INDUSTRY SUPPORT:   This course should be of value to any company requiring prog
 
 # COURSE LAYOUT
 Week 1\
-Informal introduction to programmin, algorithms and data structures viagcd
-Downloading and installing Python
-gcd in Python: variables, operations, control flow - assignments, condition-als, loops, functions
+Informal introduction to programming, algorithms and data structures via gcd\
+Downloading and installing Python\
+gcd in Python: variables, operations, control flow - assignments, condition-als, loops, functions\
 
 Week 2\
-Python: types, expressions, strings, lists, tuples
-Python memory model: names, mutable and immutable values
-List operations: slices etc
-Binary search
-Inductive function denitions: numerical and structural induction
-Elementary inductive sorting: selection and insertion sort
+Python: types, expressions, strings, lists, tuples\
+Python memory model: names, mutable and immutable values\
+List operations: slices etc\
+Binary search\
+Inductive function definitions: numerical and structural induction\
+Elementary inductive sorting: selection and insertion sort\
 In-place sorting
 
 Week 3\
